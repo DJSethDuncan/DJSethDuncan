@@ -8,10 +8,10 @@ I've got a particular affinity for building space-related things.
 ***
 
 #### I'm pretty good at
-* NodeJS, Javascript/jQuery & HTML/CSS, Coldfusion, PHP
+* NodeJS, JS/TS, HTML/CSS, Coldfusion, PHP
 
 #### I've worked with
-* Ruby on Rails, React, Angular, Ionic, C++
+* React, GraphQL, Angular, Ionic, C++
 
 ***
 
