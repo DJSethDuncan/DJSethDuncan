@@ -3,12 +3,12 @@ _Software Engineer, Manager, Musician - [sethduncan.com](https://www.sethduncan.
 
 I've got a little experience in a lot of things, and I'm always trying to learn more. 
 
-I've got a particular affinity for building space-related things.
+I've really enjoy building space-related things.
 
 ***
 
 #### I'm pretty good at
-* NodeJS, JS/TS, HTML/CSS, Coldfusion, PHP
+* NodeJS, Typescript, HTML/JS/CSS, Coldfusion, PHP
 
 #### I've worked with
 * React, GraphQL, Angular, Ionic, C++
