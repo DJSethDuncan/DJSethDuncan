@@ -8,10 +8,10 @@ I've really enjoy building space-related things.
 ***
 
 #### I'm pretty good at
-* NodeJS, Typescript, HTML/JS/CSS, Coldfusion, PHP
+* NodeJS, Typescript, React, GraphQL, CSS
 
 #### I've worked with
-* React, GraphQL, Angular, Ionic, C++
+* Angular, Ionic, C++, Coldfusion, PHP
 
 ***
 
