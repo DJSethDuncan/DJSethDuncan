@@ -7,14 +7,6 @@ I've really enjoy building space-related things.
 
 ***
 
-#### I'm pretty good at
-* NodeJS, Typescript, React, GraphQL, CSS
-
-#### I've worked with
-* Angular, Ionic, C++, Coldfusion, PHP
-
-***
-
 ### Examples
 
 * [React APOD](https://github.com/DJSethDuncan/react-apod) - Typescript/React app for pulling NASA Astronomy Photo of the Day
