@@ -1,5 +1,5 @@
 # Seth Duncan
-_Software Engineer, Leader, Space Enthusiast, Musician - [sethduncan.com](https://www.sethduncan.com)_
+_Software Engineer, Leader, Space Enthusiast, Musician - [sethduncan.com](http://sethduncan.com)_
 
 I've got a little experience in a lot of things, and I'm always trying to learn more. 
 
