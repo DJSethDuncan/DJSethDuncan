@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [![Seth's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=djsethduncan&show_iconscount_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Seth's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=djsethduncan&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsethduncan&layout=compact&langs_count=8&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsethduncan&layout=donut&langs_count=8&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
